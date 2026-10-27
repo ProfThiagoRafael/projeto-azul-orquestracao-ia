@@ -47,5 +47,5 @@ O fluxo orquestra o atendimento inicial (Triagem Nível 1) e distribui as demand
 * **Memória de Contexto:** Implementação de `Memory Buffer Window` no n8n para manter coerência no histórico recente da conversa.
 
 **Desenvolvido por:**
-**Thiago Rafael de Souza Gomes**
+**Professor Thiago Rafael**
 *AI and Systems Architect | AI Agents and LLM Integration | Industrial Automation | Process Automation with n8n | ERP/CRM and API Integrations*
